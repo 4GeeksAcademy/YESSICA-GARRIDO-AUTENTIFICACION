@@ -1,13 +1,14 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background-color: #f2f2f2;
+  background-color: white;
+
 }
 
 .container {
   display: flex;
-  justify-content: center; /* centraliza horizontal */
-  align-items: center; /* centraliza vertical */
+  justify-content: center; 
+  align-items: center; 
 }
 
 .login-box {
